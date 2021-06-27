@@ -1,0 +1,1 @@
+{"Firstname":"Kamal","Lastname":"Pranto","Gender":"Male","DOB":"1996-08-18","Religion":"Islam","presentaddress":"Rajshahi","Permanentaddress":"Rajshahi","phone":"01711943452","Email":"pranto8910@gmail.com","Lienk":"http:\/\/localhost\/","Username":"user123","Password":"321"}
